@@ -1,2 +1,2 @@
-# code-snippet-generator
+# snippets
 Created with CodeSandbox
